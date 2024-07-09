@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm B Jnyanadeep</h1>
 <h3 align="center">A passionate cybersecurity, machine learning, and hardware engineering enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jdeep1234&label=Profile%20views&color=0e75b6&style=flat" alt="jdeep1234" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdeep1234" alt="jdeep1234" /></a> </p>
 
 - 🌱 I’m currently learning **DSA and MERN**
 
