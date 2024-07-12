@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm B Jnyanadeep</h1>
 <h3 align="center">A passionate cybersecurity, machine learning, and hardware engineering enthusiast from India</h3>
-<img align="center" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-<br>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+
 - 🌱 I’m currently learning **DSA and MERN**                                             
 
 - 💬 Ask me about **ML and Security**
