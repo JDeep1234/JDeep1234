@@ -1,5 +1,4 @@
-<img align="center" alt="Coding" width="800" src="![image](https://github.com/user-attachments/assets/0d788db2-4366-4933-9225-d245639ae2eb)
-">
+<img align="center" alt="Coding" width="800" src="https://miro.medium.com/v2/resize:fit:1400/0*3YbSrAZLCOjmVzLP">
 
 <h1 align="center">Hi 👋, I'm B Jnyanadeep</h1>
 <h3 align="center">A passionate cybersecurity, machine learning, and hardware engineering enthusiast from India</h3>
