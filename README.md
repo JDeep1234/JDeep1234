@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm B Jnyanadeep</h1>
 <h3 align="center">A passionate cybersecurity, machine learning, and hardware engineering enthusiast from India</h3>
-
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 
 - 🌱 I’m currently learning **DSA and MERN**
 
