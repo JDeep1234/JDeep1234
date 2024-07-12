@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" src="https://media.licdn.com/dms/image/C5612AQHVwao3moDHcQ/article-inline_image-shrink_1000_1488/0/1603286785543?e=1724889600&v=beta&t=QmVsi3MyKEBC3NGqABTmzVxlW6P7iV6k_XpqmG6lLi8">
+<img align="center" alt="Coding" width="800" src="[https://media.licdn.com/dms/image/C5612AQHVwao3moDHcQ/article-inline_image-shrink_1000_1488/0/1603286785543?e=1724889600&v=beta&t=QmVsi3MyKEBC3NGqABTmzVxlW6P7iV6k_XpqmG6lLi8](https://miro.medium.com/v2/resize:fit:1400/0*3YbSrAZLCOjmVzLP)">
 
 <h1 align="center">Hi 👋, I'm B Jnyanadeep</h1>
 <h3 align="center">A passionate cybersecurity, machine learning, and hardware engineering enthusiast from India</h3>
