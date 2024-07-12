@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" src="https://blogs.opentext.com/wp-content/uploads/2021/10/shutterstock_1960378399-1200x675-1.jpg">
+<img align="center" alt="Coding" width="1000" height="500" src="https://blogs.opentext.com/wp-content/uploads/2021/10/shutterstock_1960378399-1200x675-1.jpg">
 
 <h1 align="center">Hi 👋, I'm B Jnyanadeep</h1>
 <h3 align="center">A passionate cybersecurity, machine learning, and hardware engineering enthusiast from India</h3>
