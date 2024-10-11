@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="1000" height="300" src="https://blogs.opentext.com/wp-content/uploads/2021/10/shutterstock_1960378399-1200x675-1.jpg">
 
-<h1 align="center">Hi 👋, I'm Name</h1>
+<h1 align="center">Hi 👋, I'm B Jnyanadeep</h1>
 <h3 align="center">A passionate Machine learning, and MERN developer,Cybersec and hardware engineering enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
