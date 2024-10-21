@@ -25,5 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jdeep1234&show_icons=true&locale=en" alt="jdeep1234" /></p>
 ## My Hacktoberfest Badges
 
-[![Holopin Badge](https://www.holopin.io/@jdeep1234#badges)](https://www.holopin.io/@jdeep1234#badges)
-
+[![An image of @jdeep1234's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jdeep1234)](https://holopin.io/@jdeep1234)
