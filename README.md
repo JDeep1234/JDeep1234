@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **ML and MERN**
 
-- 📫 How to reach me **jnyanadeepbandaru@gmail.com**
+- 📫 How to reach me **jdeepb34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
