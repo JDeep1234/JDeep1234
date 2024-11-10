@@ -1,10 +1,10 @@
-<img align="center" alt="Header Image" width="1000" height="300" src="https://i.imgur.com/Nh8Nh5B.jpg">
+<img align="center" alt="Header Image" width="1000" height="300" src="https://via.placeholder.com/1000x300?text=Header+Image">
 
 # Hi 👋, I'm B Jnyanadeep
 
 ## A passionate Machine Learning and MERN developer, Cybersec and hardware engineering enthusiast
 
-<img align="right" alt="Coding GIF" width="400" src="https://i.imgur.com/Nh8Nh5B.gif">
+<img align="right" alt="Coding GIF" width="400" src="https://via.placeholder.com/400x300?text=Coding+GIF">
 
 - 🌱 I'm currently Specializing in **ML and MERN**
 - 💬 Ask me about **ML and MERN**
@@ -12,47 +12,47 @@
 
 ### Connect with me:
 <p>
-<a href="https://linkedin.com/in/b-jnyanadeep-086b06294" target="blank"><img align="center" src="https://i.imgur.com/aBcDeFg.png" alt="LinkedIn" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/jdeepb1" target="blank"><img align="center" src="https://i.imgur.com/HcjMVyX.png" alt="HackerRank" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/b-jnyanadeep-086b06294" target="blank"><img align="center" src="https://via.placeholder.com/30x30?text=LinkedIn" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/jdeepb1" target="blank"><img align="center" src="https://via.placeholder.com/30x30?text=HackerRank" alt="HackerRank" height="30" width="30" /></a>
 </p>
 
 ### Languages and Tools:
 <p>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Arduino" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="AWS" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Azure" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Bash" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="C" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Chart.js" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="CSS3" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Docker" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Figma" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Firebase" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Flask" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Flutter" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="GCP" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Git" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="HTML5" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Java" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="JavaScript" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Linux" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="MATLAB" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="MySQL" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Node.js" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="OpenCV" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Pandas" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="PHP" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Python" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="PyTorch" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Qt" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="React" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Scikit-Learn" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Seaborn" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Selenium" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Sketch" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Spring" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="TensorFlow" width="40" height="40"/>
-<img src="https://i.imgur.com/Nh8Nh5B.png" alt="Unity" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Arduino" alt="Arduino" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=AWS" alt="AWS" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Azure" alt="Azure" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Bash" alt="Bash" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=C" alt="C" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Chart.js" alt="Chart.js" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=CSS3" alt="CSS3" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Docker" alt="Docker" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Figma" alt="Figma" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Firebase" alt="Firebase" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Flask" alt="Flask" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Flutter" alt="Flutter" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=GCP" alt="GCP" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Git" alt="Git" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=HTML5" alt="HTML5" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Java" alt="Java" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=JavaScript" alt="JavaScript" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Linux" alt="Linux" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=MATLAB" alt="MATLAB" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=MySQL" alt="MySQL" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Node.js" alt="Node.js" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=OpenCV" alt="OpenCV" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Pandas" alt="Pandas" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=PHP" alt="PHP" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Python" alt="Python" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=PyTorch" alt="PyTorch" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Qt" alt="Qt" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=React" alt="React" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Seaborn" alt="Seaborn" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Selenium" alt="Selenium" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Sketch" alt="Sketch" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Spring" alt="Spring" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=TensorFlow" alt="TensorFlow" width="40" height="40"/>
+<img src="https://via.placeholder.com/40x40?text=Unity" alt="Unity" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdeep1234&show_icons=true&locale=en&layout=compact" alt="jdeep1234" /></p>
