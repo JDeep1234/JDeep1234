@@ -104,6 +104,11 @@ me.say_hi()
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
 </div>
 
+<div align="center">
+<div align="center">
+  <img src="https://readme-quotes-api.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&bg_color=0d1117&text_color=58a6ff&author_color=f0f6fc&border_color=30363d" alt="Daily Developer Quote" />
+</div>
+<br>
 ---
 
 <div align="center">
