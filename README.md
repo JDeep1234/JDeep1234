@@ -17,7 +17,7 @@
 
 🎓 **Passionate Developer** specializing in Machine Learning and Full-Stack Development
 
-🔭 **Currently Working On:** Advanced ML projects and MERN stack applications
+🔭 **Currently Working On:** Advanced ML SecOps projects and MERN stack applications
 
 🌱 **Learning:** Cloud Architecture, Advanced AI/ML algorithms, and Cybersecurity
 
