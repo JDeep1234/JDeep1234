@@ -106,9 +106,9 @@ me.say_hi()
 
 ---
 <div align="center">
-  <img src="https://readme-quotes-api.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&bg_color=0d1117&text_color=58a6ff&author_color=f0f6fc&border_color=30363d" alt="Daily Developer Quote" />
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?type=horizontal&theme=dark&animation=grow_out_in" alt="Daily Dev Quote" />
 </div>
-<br>
+
 ---
 
 <div align="center">
