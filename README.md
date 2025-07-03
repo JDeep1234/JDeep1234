@@ -98,11 +98,6 @@ me = BJnyanadeep()
 me.say_hi()
 ```
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
-</div>
 
 ---
 <div align="center">
@@ -114,4 +109,9 @@ me.say_hi()
 <div align="center">
   <p><em>⭐ Don't forget to star the repositories you find interesting!</em></p>
   <p><strong>Happy Coding! 🚀</strong></p>
+</div>
+
+---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
 </div>
