@@ -137,7 +137,7 @@ class BJnyanadeep:
         self.name = "B Jnyanadeep"
         self.role = "ML Engineer & Full Stack Developer"
         self.language_spoken = ["Python", "JavaScript", "Java", "C"]
-        self.current_focus = ["Machine Learning", "MERN Stack", "Cloud Computing"]
+        self.current_focus = ["CyberSecurity", "Machine Learning", "MERN Stack", "Cloud Computing"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's connect and build something amazing together.")
