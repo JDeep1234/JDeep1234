@@ -94,7 +94,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jdeep1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=jdeep1234&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=jdeep1234&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 <div align="center">
