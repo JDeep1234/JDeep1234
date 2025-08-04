@@ -111,7 +111,7 @@ class BJnyanadeep:
         self.language_spoken = ["Python", "JavaScript", "Java", "C"]
         self.current_focus = ["CyberSecurity", "Machine Learning", "MERN Stack", "Cloud Computing"]
         self.coding_platforms = {
-            "leetcode": {"problems_solved": "425+", "contest_rating": "1550+", "streak": "100+ days"},
+            "leetcode": {"problems_solved": "425+", "contest_rating": "1500+", "streak": "100+ days"},
             "hackerrank": {"stars": "5⭐", "domain": "Problem Solving"},
             "github": {"contributions": "500+", "repos": "50+"}
         }
