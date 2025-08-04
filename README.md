@@ -70,15 +70,7 @@
 </div>
 
 🧩 LeetCode Profile
-<div align="center">
-  <a href="https://leetcode.com/u/jnyanadeepbandaru/">
-    <img src="https://leetcard.jacoblin.cool/jdeep1234?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
-  </a>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Badge"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-Expert-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solving"/>
-</div>
+<div align="center"> <a href="https://leetcode.com/u/jnyanadeepbandaru/"> <img src="https://leetcard.jacoblin.cool/jnyanadeepbandaru?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/> </a> </div> <div align="center"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23FFA116" alt="LeetCode Badge"/> <img src="https://img.shields.io/badge/Problem%20Solving-Expert-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solving"/> </div>
 
 ## 🏆 GitHub Trophies
 
