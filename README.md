@@ -71,7 +71,7 @@
 
 🧩 LeetCode Profile
 <div align="center">
-  <a href="https://leetcode.com/jdeep1234">
+  <a href="https://leetcode.com/u/jnyanadeepbandaru/">
     <img src="https://leetcard.jacoblin.cool/jdeep1234?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
   </a>
 </div>
