@@ -1,4 +1,4 @@
-# 👋 Hello, I'm B Jnyanadeep
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FJDeep12348dd1c.png?alt=media)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Machine+Learning;MERN+Stack+Developer;Cloud+%26+Cybersecurity+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
