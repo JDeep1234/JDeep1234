@@ -69,8 +69,6 @@
   <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jdeep1234&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
 </div>
 
-🧩 LeetCode Profile
-<div align="center"> <a href="https://leetcode.com/u/jnyanadeepbandaru/"> <img src="https://leetcard.jacoblin.cool/jnyanadeepbandaru?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/> </a> </div> <div align="center"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23FFA116" alt="LeetCode Badge"/> <img src="https://img.shields.io/badge/Problem%20Solving-Expert-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solving"/> </div>
 
 ## 🏆 GitHub Trophies
 
