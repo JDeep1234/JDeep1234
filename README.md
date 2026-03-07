@@ -1,7 +1,7 @@
 ![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FJDeep12348dd1c.png?alt=media)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Machine+Learning;MERN+Stack+Developer;Cloud+%26+Cybersecurity+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=ML+Security+%26+Adversarial+ML;Quantitative+Development;Systems+%26+Backend+Engineering;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,17 +15,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-🎓 **Passionate Developer** specializing in Machine Learning and Full-Stack Development
+🎓 **Passionate Developer** specializing in ML Security, Quantitative Systems, and Software Engineering
 
-🔭 **Currently Working On:** Advanced ML SecOps projects and MERN stack applications
+🔭 **Currently Working On:** Adversarial ML & model robustness, low-latency systems, and quant research tooling
 
-🌱 **Learning:** Cloud Architecture, Advanced AI/ML algorithms, and Cybersecurity
+🌱 **Learning:** Stochastic modeling, HFT infrastructure, red-teaming LLMs, and secure ML pipelines
 
-💡 **Interests:** Artificial Intelligence, Web Development, Cloud Computing, and Security
+💡 **Interests:** Quantitative Finance, ML Security, Systems Design, Adversarial AI, and Algorithmic Trading
 
 📫 **Contact:** [jdeepb34@gmail.com](mailto:jdeepb34@gmail.com)
 
-⚡ **Fun Fact:** I love turning complex problems into simple, elegant solutions!
+⚡ **Fun Fact:** I love turning complex mathematical models into efficient, production-grade systems!
 
 ---
 
@@ -106,30 +106,56 @@
 class BJnyanadeep:
     def __init__(self):
         self.name = "B Jnyanadeep"
-        self.language_spoken = ["Python", "JavaScript", "Java", "C"]
-        self.current_focus = ["CyberSecurity", "Machine Learning", "MERN Stack", "Cloud Computing"]
+        self.language_spoken = ["Python", "C++", "Java", "SQL"]
+        self.current_focus = [
+            "ML Security & Adversarial Robustness",
+            "Quantitative Research & Algo Trading",
+            "Systems Engineering & Low-Latency Design",
+            "Secure ML Pipelines & Red-Teaming LLMs"
+        ]
         self.coding_platforms = {
             "leetcode": {"problems_solved": "425+", "contest_rating": "1500+", "streak": "100+ days"},
             "hackerrank": {"stars": "5⭐", "domain": "Problem Solving"},
             "github": {"contributions": "500+", "repos": "50+"}
         }
-        self.achievements = ["Hacktoberfest Contributor", "Algorithm Enthusiast", "Open Source Advocate"]
-        
-    def leetcode_journey(self):
-        return {
-            "philosophy": "Code → Debug → Optimize → Repeat 🔄",
-            "daily_goal": "At least 1 problem solved per day 📈",
-            "current_streak": "🔥 On fire with consistent solving!"
+        self.quant_stack = {
+            "math": ["Stochastic Calculus", "Linear Algebra", "Probability Theory", "Time Series"],
+            "tools": ["NumPy", "Pandas", "SciPy", "QuantLib", "Backtrader"],
+            "strategies": ["Statistical Arbitrage", "Factor Modeling", "Options Pricing", "Backtesting"]
         }
-        
+        self.ml_security = {
+            "adversarial_ml": ["FGSM", "PGD Attacks", "Model Inversion", "Membership Inference"],
+            "defenses": ["Adversarial Training", "Certified Robustness", "Differential Privacy"],
+            "llm_security": ["Prompt Injection", "Jailbreaking", "Red-Teaming", "Model Fingerprinting"]
+        }
+        self.swe_principles = [
+            "Design for scale, optimize for latency",
+            "Security-first architecture",
+            "Test-driven, benchmark everything",
+            "Clean abstractions over clever hacks"
+        ]
+        self.achievements = [
+            "Hacktoberfest Contributor",
+            "Adversarial ML Researcher",
+            "Open Source Advocate",
+            "Quant Systems Builder"
+        ]
+
+    def current_research(self):
+        return {
+            "ml_sec": "Robustness of financial ML models under distribution shift & adversarial perturbation 🛡️",
+            "quant":  "Building alpha signals using NLP + order book microstructure 📈",
+            "swe":    "Low-latency data pipelines and execution engine design ⚡"
+        }
+
     def say_hi(self):
         print("Thanks for dropping by! Let's connect and build something amazing together.")
         print("🚀 Always ready for new coding challenges and collaborations!")
-        print("💡 Currently grinding LeetCode and building the future, one algorithm at a time!")
+        print("📐 Currently bridging quant finance, ML security, and systems engineering — one algorithm at a time!")
 
 me = BJnyanadeep()
 me.say_hi()
-print(f"🧩 LeetCode Status: {me.leetcode_journey()}")
+print(f"🔬 Research: {me.current_research()}")
 ```
 
 ---
