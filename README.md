@@ -1,186 +1,212 @@
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FJDeep12348dd1c.png?alt=media)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:0d47a1&height=200&section=header&text=%20Jdeep&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ML%20Security%20%E2%80%A2%20Quant%20Dev%20%E2%80%A2%20Systems%20Engineer&descAlignY=56&descAlign=50&descColor=bbdefb" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=ML+Security+%26+Adversarial+ML;Quantitative+Development;Systems+%26+Backend+Engineering;Always+Learning+New+Technologies" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jdeep1234&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/jdeep1234?label=Followers&style=social" alt="GitHub followers" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=700&height=55&lines=ML+Security+%26+Adversarial+ML+Researcher;Quantitative+Developer+%26+Algo+Trader;Systems+%26+Low-Latency+Backend+Engineer;Red-Teaming+LLMs+%26+Secure+ML+Pipelines" alt="Typing SVG"/>
 
----
+<br/>
 
-## 🚀 About Me
+<a href="mailto:jdeepb34@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/jdeep1234">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/jdeep1234">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<br/><br/>
 
-🎓 **Passionate Developer** specializing in ML Security, Quantitative Systems, and Software Engineering
+<img src="https://komarev.com/ghpvc/?username=jdeep1234&label=Profile%20Views&color=2196F3&style=flat-square" alt="Profile views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/jdeep1234?label=Followers&style=flat-square&color=2196F3" alt="Followers"/>
 
-🔭 **Currently Working On:** Adversarial ML & model robustness, low-latency systems, and quant research tooling
-
-🌱 **Learning:** Stochastic modeling, HFT infrastructure, red-teaming LLMs, and secure ML pipelines
-
-💡 **Interests:** Quantitative Finance, ML Security, Systems Design, Adversarial AI, and Algorithmic Trading
-
-📫 **Contact:** [jdeepb34@gmail.com](mailto:jdeepb34@gmail.com)
-
-⚡ **Fun Fact:** I love turning complex mathematical models into efficient, production-grade systems!
-
----
-
-## 🛠️ Languages and Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,php,react,html,css,nodejs,flask&perline=5" alt="Row 1"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,tensorflow,pytorch,aws,docker,git,linux,arduino,figma&perline=5" alt="Row 2"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=unity,vscode,opencv,mongodb,typescript&perline=5" alt="Row 3"/>
 </div>
 
 ---
 
-## 🏅 Holopin Badges & Achievements
+## 🧠 About Me
 
-<div align="center">
-  <a href="https://holopin.me/jdeep1234">
-    <img src="https://holopin.me/jdeep1234" alt="Holopin Badge Board" />
-  </a>
-</div>
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-### 🎃 Hacktoberfest Achievements
-<div align="center">
-  <img src="https://img.shields.io/badge/Hacktoberfest-2024-FF6B35?style=for-the-badge&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest 2024"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributor"/>
-</div>
+> *"At the intersection of mathematics, security, and performance engineering."*
 
----
+I'm a developer working where **ML Security**, **Quantitative Finance**, and **High-Performance Systems** collide. I turn rigorous mathematical theory into production-grade, battle-tested systems — and I love every step of that process.
 
-## 💻 Coding Profiles & Analytics
+- 🔭 **Currently:** Adversarial ML for financial models & LLM red-teaming
+- 🌱 **Exploring:** Stochastic modeling, HFT infrastructure & certified robustness
+- 🛡️ **ML Security:** Attacks, defenses, differential privacy, prompt injection
+- 📈 **Quant Finance:** Stat arb, factor modeling, options pricing, order-book microstructure
+- ⚡ **Systems:** Low-latency pipelines, execution engine design, memory-efficient data structures
+- 📫 **Contact:** [jdeepb34@gmail.com](mailto:jdeepb34@gmail.com)
+- ⚡ **Fun Fact:** My codebase often reads like a research paper — math first, code second!
 
-### 📊 GitHub Analytics
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jdeep1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jdeep1234&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jdeep1234&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
-</div>
-
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=jdeep1234&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies"/>
-</div>
+<br clear="right"/>
 
 ---
 
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/b-jnyanadeep-086b06294">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/jdeep1234">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/jdeepb1">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://holopin.me/jdeep1234">
-    <img src="https://img.shields.io/badge/Holopin-FF6B35?style=for-the-badge&logo=holopin&logoColor=white" alt="Holopin"/>
-  </a>
-  <a href="mailto:jdeepb34@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
-
----
-
-## 🎯 Current Focus
+## 🎯 The Codebase Behind the Person
 
 ```python
 class BJnyanadeep:
     def __init__(self):
-        self.name = "B Jnyanadeep"
-        self.language_spoken = ["Python", "C++", "Java", "SQL"]
-        self.current_focus = [
-            "ML Security & Adversarial Robustness",
-            "Quantitative Research & Algo Trading",
-            "Systems Engineering & Low-Latency Design",
-            "Secure ML Pipelines & Red-Teaming LLMs"
-        ]
-        self.coding_platforms = {
-            "leetcode": {"problems_solved": "425+", "contest_rating": "1500+", "streak": "100+ days"},
-            "hackerrank": {"stars": "5⭐", "domain": "Problem Solving"},
-            "github": {"contributions": "500+", "repos": "50+"}
-        }
-        self.quant_stack = {
-            "math": ["Stochastic Calculus", "Linear Algebra", "Probability Theory", "Time Series"],
-            "tools": ["NumPy", "Pandas", "SciPy", "QuantLib", "Backtrader"],
-            "strategies": ["Statistical Arbitrage", "Factor Modeling", "Options Pricing", "Backtesting"]
-        }
-        self.ml_security = {
-            "adversarial_ml": ["FGSM", "PGD Attacks", "Model Inversion", "Membership Inference"],
-            "defenses": ["Adversarial Training", "Certified Robustness", "Differential Privacy"],
-            "llm_security": ["Prompt Injection", "Jailbreaking", "Red-Teaming", "Model Fingerprinting"]
-        }
-        self.swe_principles = [
-            "Design for scale, optimize for latency",
-            "Security-first architecture",
-            "Test-driven, benchmark everything",
-            "Clean abstractions over clever hacks"
-        ]
-        self.achievements = [
-            "Hacktoberfest Contributor",
-            "Adversarial ML Researcher",
-            "Open Source Advocate",
-            "Quant Systems Builder"
-        ]
+        self.name        = "B Jnyanadeep"
+        self.location    = "India 🇮🇳"
+        self.languages   = ["Python", "C++", "Java", "SQL"]
 
-    def current_research(self):
-        return {
-            "ml_sec": "Robustness of financial ML models under distribution shift & adversarial perturbation 🛡️",
-            "quant":  "Building alpha signals using NLP + order book microstructure 📈",
-            "swe":    "Low-latency data pipelines and execution engine design ⚡"
+        self.current_research = {
+            "ml_security": "Adversarial robustness of financial ML models 🛡️",
+            "quant":       "Alpha signals via NLP + order-book microstructure 📈",
+            "systems":     "Low-latency data pipelines & execution engine design ⚡",
         }
+
+        self.ml_security_stack = {
+            "attacks":  ["FGSM", "PGD", "C&W", "Model Inversion", "Membership Inference"],
+            "defenses": ["Adversarial Training", "Certified Robustness", "Differential Privacy"],
+            "llm_sec":  ["Prompt Injection", "Jailbreaking", "Red-Teaming", "Fingerprinting"],
+        }
+
+        self.quant_stack = {
+            "math":       ["Stochastic Calculus", "Linear Algebra", "Probability", "Time Series"],
+            "tools":      ["NumPy", "Pandas", "SciPy", "QuantLib", "Backtrader"],
+            "strategies": ["Stat Arb", "Factor Modeling", "Options Pricing", "Backtesting"],
+        }
+
+        self.competitive_coding = {
+            "leetcode":   "425+ solved  |  Rating 1500+  |  100+ day streak",
+            "hackerrank": "5 Stars  |  Problem Solving Domain",
+            "github":     "500+ contributions  |  50+ repositories",
+        }
+
+        self.principles = [
+            "Design for scale — optimize for latency",
+            "Security-first, performance always",
+            "Test-driven, benchmark everything",
+            "Clean abstractions over clever hacks",
+        ]
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something amazing together.")
-        print("🚀 Always ready for new coding challenges and collaborations!")
-        print("📐 Currently bridging quant finance, ML security, and systems engineering — one algorithm at a time!")
+        print("Thanks for stopping by! Let's connect and build something impactful. 🚀")
 
 me = BJnyanadeep()
 me.say_hi()
-print(f"🔬 Research: {me.current_research()}")
 ```
 
 ---
 
-## 📈 Coding Activity
+## 🔬 Areas of Expertise
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🛡️ ML Security
+- Adversarial attacks: FGSM, PGD, C&W
+- Model inversion & membership inference
+- Certified robustness & differential privacy
+- LLM red-teaming & jailbreak research
+- Prompt injection & fingerprinting
+- Secure ML pipeline design
+
+</td>
+<td width="33%" valign="top">
+
+### 📈 Quantitative Finance
+- Stochastic calculus & time series
+- Statistical arbitrage strategies
+- Factor modeling & alpha research
+- Options pricing (BSM, Monte Carlo)
+- Order-book microstructure analysis
+- NLP-driven signal generation
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ Systems Engineering
+- Low-latency pipeline architecture
+- HFT infrastructure concepts
+- Memory-efficient data structures
+- Concurrent & parallel computing
+- C++ performance optimization
+- Profiling & benchmarking
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🤖 ML / AI / Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge)
+
+### ⚙️ Tools & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## 🏆 Competitive Programming
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jdeep1234&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+
+| Platform | Stats |
+|:---|:---|
+| 🟡 **LeetCode** | 425+ Problems Solved &nbsp;·&nbsp; Rating 1500+ &nbsp;·&nbsp; 100+ Day Streak |
+| ⭐ **HackerRank** | 5 Stars &nbsp;·&nbsp; Problem Solving Domain |
+| 🐙 **GitHub** | 500+ Contributions &nbsp;·&nbsp; 50+ Repositories |
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?type=horizontal&theme=dark&animation=grow_out_in" alt="Daily Dev Quote" />
-</div>
 
----
+### 💬 Let's Connect & Build Together
 
-<div align="center">
-  <p><em>⭐ Don't forget to star the repositories you find interesting!</em></p>
-  <p><strong>🎯 Let's solve problems together and make the world a better place through code!</strong></p>
-  <p><strong>Happy Coding! 🚀</strong></p>
-</div>
+*Open to collaborations in ML security, quant research, and systems engineering.*
 
----
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
+<br/>
+
+<a href="mailto:jdeepb34@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/jdeep1234">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/jdeep1234">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<br/><br/>
+
+⭐ **Star the repos you find useful — it means more than you'd think!**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:0d47a1&height=120&section=footer" width="100%"/>
+
 </div>
